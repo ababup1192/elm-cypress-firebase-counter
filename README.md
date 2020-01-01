@@ -1,6 +1,6 @@
-# Elm Cypress Counter
+# Elm Cypress Firebase Counter
 
-[![CircleCI](https://circleci.com/gh/ababup1192/elm-cypress-counter.svg?style=svg)](https://circleci.com/gh/ababup1192/elm-cypress-counter)
+[![CircleCI](https://circleci.com/gh/ababup1192/elm-cypress-firebase-counter.svg?style=svg)](https://circleci.com/gh/ababup1192/elm-cypress-firebase-counter)
 
 ## dev
 
